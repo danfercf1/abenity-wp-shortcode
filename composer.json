@@ -1,0 +1,5 @@
+{
+    "require": {
+        "abenity/abenity-php": "^2"
+    }
+}
